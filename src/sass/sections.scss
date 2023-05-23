@@ -1,0 +1,15 @@
+
+@use 'mixinfunc';
+@use 'variables';
+
+
+main{
+
+    color: $TextColorOne;
+
+    @include mixinfunc.crear-flexbox;
+
+    #section-two{
+        color: $TextColortwo;
+    }
+}
