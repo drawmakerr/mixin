@@ -1,9 +1,0 @@
-main {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  color: darkorchid;
-}
-main #section-two {
-  color: green;
-}/*# sourceMappingURL=sections.css.map */

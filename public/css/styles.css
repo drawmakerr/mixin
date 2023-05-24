@@ -1,8 +1,8 @@
 main {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
   color: darkorchid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 main #section-two {
   color: green;
